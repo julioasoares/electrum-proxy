@@ -18,7 +18,7 @@ npm start
 
 ## Supported calls
 
-Refer to Electrum Server doc for method specific params and outputs https://github.com/kyuupichan/electrumx/blob/master/docs/PROTOCOL.rst
+Refer to Electrum Server doc for method specific params and outputs https://github.com/kyuupichan/electrumx/blob/master/docs/protocol.rst
 
 ### All calls are required to have a target Electrum server's IP and a port.
 
